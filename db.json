@@ -77,12 +77,20 @@
         
     ],
 
-    "projetos" :
+    "projetos" : [
+
         {
             "id": 1,            
             "img":"https://dc572.4shared.com/img/7b45x26Ege/s24/18950d45cd0/Captura_de_tela_2023-07-13_165?async&rand=0.04649478917208327",
             "titulo":"Projetos dos Posts", 
             "paragrafo":"É um projetos que tem varios posts" 
+        },
+        {
+            "id": 2,            
+            "img":"https://dc572.4shared.com/img/7b45x26Ege/s24/18950d45cd0/Captura_de_tela_2023-07-13_165?async&rand=0.04649478917208327",
+            "titulo":"Projetos dos Posts 2", 
+            "paragrafo":"É um projetos que tem varios posts 2" 
         }
+    ]        
     
 }
