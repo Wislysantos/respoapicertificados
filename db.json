@@ -82,16 +82,16 @@
         {
             "id": 1,            
             "img":"https://dc572.4shared.com/img/7b45x26Ege/s24/18950d45cd0/Captura_de_tela_2023-07-13_165?async&rand=0.04649478917208327",
-            "titulo":"Projetos dos Posts", 
-            "paragrafo":"É um projetos que tem varios posts",
+            "titulo":"Projeto de Posts", 
+            "paragrafo":"É um projetos que tem varios posts, tecnologia usada são React.JS",
             "link": "https://astounding-florentine-ad8772.netlify.app/" 
         },
         {
             "id": 2,            
             "img":"https://dc596.4shared.com/img/Y-NI_x-4ge/s24/1896c131810/Captura_de_tela_2023-07-18_235?async&rand=0.2401328528108453",
-            "titulo":"Projetos dos Posts 2", 
-            "paragrafo":"É um projetos que tem varios posts 2",
-            "link": ""
+            "titulo":"Projeto com Crud", 
+            "paragrafo":"O projeto em Crud, em andamento, tecnologia usada São react com TS",
+            "link": "https://starlit-scone-c15d12.netlify.app/pagina-inicial"
         }
     ]        
     
